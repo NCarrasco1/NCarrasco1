@@ -1,6 +1,8 @@
 # 𝐇𝐨𝐥𝐚, 𝐜𝐨𝐦𝐩𝐚ñ𝐞𝐫𝐨𝐬 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolás-carrasco)  
+
 [![Gmail](https://img.shields.io/badge/Gmail-Contacto-red?style=flat&logo=gmail)](mailto:carrasconicolasluciano@gmail.com)
+
 [![GitHub Followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/NCarrasco1)  
 
 ---
