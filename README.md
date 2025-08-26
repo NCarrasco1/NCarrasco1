@@ -7,29 +7,21 @@
 
 ---
 
-# ¡Bienvenido a mi perfil!  
+🚀 Un poco sobre mí...
 
+Soy Nicolás Carrasco, estudiante de la Tecnicatura en Programación en el instituto Teclab y actualmente me desempeño como Analista Funcional.
 
-### 🚀 Un poco sobre mí...  
-Soy Nicolás Carrasco, estudiante de la Tecnicatura en Programación en el instituto Teclab. He realizado cursos en Desarrollo Web y JavaScript ademas he trabajado en proyectos con HTML, CSS y JavaScript, lo que me ha permitido desarrollar una sólida base en el desarrollo frontend.
+En este rol participo activamente en el análisis, diseño y documentación de requerimientos, trabajando en conjunto con equipos de desarrollo para asegurar soluciones alineadas a las necesidades del negocio. Esta experiencia me ha permitido fortalecer mis habilidades de comunicación con clientes y equipos técnicos, así como mi capacidad de traducir necesidades en especificaciones claras y accionables.
 
-Me destaco por mi aprendizaje rápido, adaptabilidad y compromiso con la mejora continua. Estoy motivado para adquirir experiencia en nuevas tecnologías y frameworks que me permitan crecer profesionalmente.
+Previamente, me formé en Desarrollo Web con proyectos en HTML, CSS y JavaScript, lo que me otorgó una sólida base técnica y una mejor comprensión del ciclo completo de desarrollo de software.
 
-Además de mi formación técnica, tengo una experiencia profesional previa como Técnico en Anestesia, profesion que ejerzo actualmente desde 2022, lo cual me ha permitido desarrollar habilidades clave como la comunicación efectiva, el trabajo en equipo, y la toma de decisiones bajo presión. Estas habilidades son fundamentales tanto en entornos críticos como en el desarrollo de software, donde la resolución de problemas y la colaboración con el equipo son esenciales para el éxito de los proyectos.
+Además de lo técnico, cuento con una trayectoria profesional como Técnico en Anestesia, donde desarrollé competencias clave como la toma de decisiones bajo presión, la atención al detalle y el trabajo en equipo multidisciplinario, que hoy aplico en el ámbito tecnológico.
 
-Actualmente, busco oportunidades en desarrollo frontend donde pueda aportar mis conocimientos y seguir aprendiendo. Estoy abierto a capacitarme en cualquier otra tecnología necesaria para contribuir al éxito del equipo o empresa que me sume a su equipo.🚀
-  
-🌱   Tengo experiencia en **Frontend** y conocimientos en **Backend** pero me interesa explorar otras áreas del desarrollo y seguir creciendo academicamente.  
+🌱 Tengo experiencia en Frontend y conocimientos en Backend. En el último tiempo he trabajado como Analista Funcional, lo que me permitió ampliar mi visión sobre el ciclo de vida del software y fortalecer mis habilidades de comunicación y análisis. Sigo explorando nuevas áreas dentro de IT para seguir creciendo profesionalmente y aportar más valor en cada proyecto.
 
-💡   Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.  
+💡 Me motiva la mejora continua, aprender nuevas tecnologías y metodologías que potencien mi trabajo.
 
-👨🏻‍💻   La mayoría de mis proyectos están disponibles en **GitHub**.  
-
-💬   Estoy en busqueda de trabajo, soy trainee frontend, si mi perfil te resulta llamativo, no dudes en contactarme, con gusto podemos tener una reunion.  
-
-🏋️‍♂️   En mi tiempo libre, me gusta hacer ejercicio, mantenerme activo, realizar tareas domesticas asi como ordenar y limpiar cosas.  
-
----
+👨🏻‍💻 Algunos de mis proyectos personales están disponibles en GitHub.
 
 ### 🔨 Lenguajes y herramientas:  
 
