@@ -1,61 +1,67 @@
-# 𝐇𝐨𝐥𝐚, 𝐜𝐨𝐦𝐩𝐚ñ𝐞𝐫𝐨𝐬 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolás-carrasco)  
+🌐 **English** · [Español](https://github.com/NCarrasco1/NCarrasco1/blob/main/README.es.md)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contacto-red?style=flat&logo=gmail)](mailto:carrasconicolasluciano@gmail.com)
+# Hi, I'm Nicolás Carrasco 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/NCarrasco1)  
+**Functional Analyst · Odoo ERP | Programmer (Python · SQL · JavaScript)**
+Mendoza, Argentina 
 
----
-
-🚀 Un poco sobre mí...
-
-Soy Nicolás Carrasco, estudiante de la Tecnicatura en Programación en el instituto Teclab y actualmente me desempeño como Analista Funcional.
-
-En este rol participo activamente en el análisis, diseño y documentación de requerimientos, trabajando en conjunto con equipos de desarrollo para asegurar soluciones alineadas a las necesidades del negocio. Esta experiencia me ha permitido fortalecer mis habilidades de comunicación con clientes y equipos técnicos, así como mi capacidad de traducir necesidades en especificaciones claras y accionables.
-
-Previamente, me formé en Desarrollo Web con proyectos en HTML, CSS y JavaScript, lo que me otorgó una sólida base técnica y una mejor comprensión del ciclo completo de desarrollo de software.
-
-Además de lo técnico, cuento con una trayectoria profesional como Técnico en Anestesia, donde desarrollé competencias clave como la toma de decisiones bajo presión, la atención al detalle y el trabajo en equipo multidisciplinario, que hoy aplico en el ámbito tecnológico.
-
-🌱 Tengo experiencia en Frontend y conocimientos en Backend. En el último tiempo he trabajado como Analista Funcional, lo que me permitió ampliar mi visión sobre el ciclo de vida del software y fortalecer mis habilidades de comunicación y análisis. Sigo explorando nuevas áreas dentro de IT para seguir creciendo profesionalmente y aportar más valor en cada proyecto.
-
-💡 Me motiva la mejora continua, aprender nuevas tecnologías y metodologías que potencien mi trabajo.
-
-👨🏻‍💻 Algunos de mis proyectos personales están disponibles en GitHub.
-
-### 🔨 Lenguajes y herramientas:  
-
-#### 💻 **Lenguajes de programación**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-
-#### 🖥️ **Desarrollo Web**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
-
-#### 🗄️ **Bases de datos**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/-NoSQL-008000?style=flat)  
-
-#### ☁ **Cloud & Herramientas**  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
-![pgAdmin](https://img.shields.io/badge/-pgAdmin-316192?style=flat&logo=postgresql&logoColor=white)  
-
-#### 🛠 **Entornos de desarrollo**  
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Carrasco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-carrasco)
+[![Email](https://img.shields.io/badge/Email-carrasconicolasluciano%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:carrasconicolasluciano@gmail.com)
 
 ---
 
-### 📊 Estadísticas de GitHub  
-![Tuusuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)](https://github.com/tuusuario)  
+## About me
+
+I work as a **Functional Analyst at an official Odoo partner**, where I've taken part in around six ERP implementations, including custom modules and tailored developments. My day-to-day work sits between the business and the development team:
+
+- Gathering requirements and mapping business processes
+- Configuring Odoo and writing functional specifications for developers
+- Preparing and importing master data
+- Functional testing, UAT and user training
+
+I hold a **Higher Technical Degree in Programming** (Teclab, 2026) and I write code: Python, SQL and JavaScript. That technical background lets me talk to developers in their own language, review what gets built and solve problems on both sides. I'm now going deeper into **Odoo development, PostgreSQL and API integrations**, including applied AI.
+
+Before IT, I worked as an anesthesia technician. That's where I learned to make decisions under pressure and work in multidisciplinary teams.
+
+## Odoo experience
+
+| Area | Modules |
+|---|---|
+| Supply chain | Inventory, Purchase, Sales |
+| Finance | Accounting & Invoicing |
+| Customer | CRM |
+| Custom | Imports (customized module), Maintenance (mechanical workshop) |
+
+## Tech stack
+
+**Programming:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**ERP & tools:**
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+**Going deeper:**
+![Odoo Development](https://img.shields.io/badge/Odoo%20Development-714B67?logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?logo=fastapi&logoColor=white)
+
+## What I'm building
+
+- [ ] **Odoo SQL insights**: business questions answered with SQL on an Odoo database (sales, purchases, stock)
+- [ ] **Master data cleaner**: a Python script that validates and cleans contacts and products, ready to import into Odoo
+- [ ] **Custom Odoo module**: a small module that extends a standard Purchase or Inventory flow
+- [ ] **Odoo integration**: a Python script that creates sales orders in Odoo from an external source through its API
+- [ ] **AI assistant for Odoo**: an agent that answers business questions using Odoo data
+
+*All projects are built from scratch with demo data. No client information is ever used.*
 
 ---
 
-### 📫 Conéctate conmigo:  
-📩 **Email:** [carrasconicolasluciano@gmail.com](mailto:carrasconicolasluciano@gmail.com)  
-💼 **LinkedIn:** [www.linkedin.com/in/nicolás-carrasco](www.linkedin.com/in/nicolás-carrasco)  
+📫 Feel free to reach out about Odoo, ERP implementations or technical-functional roles.
