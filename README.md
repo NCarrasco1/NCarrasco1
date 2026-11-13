@@ -12,7 +12,7 @@ Mendoza, Argentina · Open to remote opportunities
 
 ## About me
 
-I work as a **Functional Analyst at an official Odoo partner**, where I've taken part in around six ERP implementations, including custom modules and tailored developments. My day-to-day work sits between the business and the development team:
+I work as a **Functional Analyst at an official Odoo partner**, where I take part in ERP implementations for different clients and industries, including custom modules and tailored developments. My day-to-day work sits between the business and the development team:
 
 - Gathering requirements and mapping business processes
 - Configuring Odoo and writing functional specifications for developers
